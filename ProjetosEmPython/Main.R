@@ -10,3 +10,5 @@ dim(test)
 head(test)
 
 plot(test)
+
+abline(test)
