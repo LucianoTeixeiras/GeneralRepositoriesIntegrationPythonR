@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae18642-4357-4c92-ab4e-483b2a7c02b9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rplots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dominando o Pandas (Parte 01).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dominando o Pandas (Parte 01).ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Dominando o Pandas (Parte 01).ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dominando o Pandas (Parte 01).ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,10 +46,11 @@
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Main.R" />
         <option value="$PROJECT_DIR$/Pandas.ipynb" />
+        <option value="$PROJECT_DIR$/Dominando o Pandas (Parte 01).ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1455" />
     <option name="y" value="84" />
     <option name="width" value="1346" />
@@ -70,7 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/R/R-3.5.0/bin/R.exe" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +92,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="R.Main">
+  <component name="RunManager" selected="Jupyter Notebook.ProjetosEmPython">
+    <configuration name="ProjetosEmPython" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="ProjetosEmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosEmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +143,7 @@
       <item itemvalue="R.Main" />
       <item itemvalue="Python.Main" />
       <item itemvalue="R.Main (1)" />
+      <item itemvalue="Jupyter Notebook.ProjetosEmPython" />
     </list>
     <recent_temporary>
       <list>
@@ -165,14 +190,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="47" width="1346" height="698" extended-state="0" />
+    <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659409" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13681948" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286219" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075185" side_tool="true" weight="0.3293718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924812" weight="0.3286219" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924812" weight="0.3275862" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286219" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -208,6 +234,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dominando o Pandas (Parte 01).ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
         </state>
       </provider>
     </entry>
